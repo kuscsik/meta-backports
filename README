@@ -15,11 +15,11 @@ The meta-backports layer depends on:
 
 	URI: git://git.openembedded.org/openembedded-core
 	layers: meta
-	branch: master
+	branch: krogoth
 
 	URI: git://git.openembedded.org/meta-openembedded
 	layers: meta-oe
-	branch: master
+	branch: krogoth
 
 Please follow the recommended setup procedures of your OE distribution. For
 Angstrom that is http://www.angstrom-distribution.org/building-angstrom, other
@@ -37,14 +37,15 @@ Contributing
 -------------------------
 
 If you want to contribute changes, you can send Gerrit merge requests at
-https://review.linaro.org/#/q/project:openembedded/meta-backports.
+https://review.linaro.org/#/q/project:openembedded/meta-backports, against the
+krogoth branch.
 
 Alternatively you can send patches to openembedded@lists.linaro.org, in which
 case, please:
 
 * When creating patches, please use something like:
 
-`git format-patch -s --subject-prefix='meta-backports][PATCH' origin`
+`git format-patch -s --subject-prefix='meta-backports][PATCH][krogoth' origin`
 
 * When sending patches, please use something like:
 
