@@ -1,0 +1,7 @@
+Code-Review+2: Koen Kooi <koen.kooi@linaro.org>
+Code-Review+2: Nicolas Dechesne <nicolas.dechesne@linaro.org>
+Submitted-by: Nicolas Dechesne <nicolas.dechesne@linaro.org>
+Submitted-at: Tue, 30 Aug 2016 09:36:56 +0000
+Reviewed-on: https://review.linaro.org/13423
+Project: openembedded/meta-backports
+Branch: refs/heads/krogoth
