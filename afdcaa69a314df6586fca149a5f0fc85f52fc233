@@ -1,0 +1,6 @@
+Code-Review+2: Nicolas Dechesne <nicolas.dechesne@linaro.org>
+Submitted-by: Fathi Boudra <fathi.boudra@linaro.org>
+Submitted-at: Thu, 08 Sep 2016 11:15:16 +0000
+Reviewed-on: https://review.linaro.org/14211
+Project: openembedded/meta-backports
+Branch: refs/heads/jethro
